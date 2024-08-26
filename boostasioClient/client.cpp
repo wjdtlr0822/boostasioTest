@@ -26,6 +26,4 @@ int main() {
 
 		std::cout.write(buf.data(), len);
 	}
-	/*int a;
-	std::cin >> a;*/
 }

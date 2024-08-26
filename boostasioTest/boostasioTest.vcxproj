@@ -130,7 +130,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="asyncdaytime_server.cpp" />
+    <ClCompile Include="boostasioGame.cpp" />
     <ClCompile Include="daytimeserver.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Member.h" />
+    <ClInclude Include="Session.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
