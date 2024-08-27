@@ -74,7 +74,7 @@ public:
 	}
 };
 
-int main() {
+int ww() {
 	try {
 		boost::asio::io_context io;
 		tcp_server server(io);

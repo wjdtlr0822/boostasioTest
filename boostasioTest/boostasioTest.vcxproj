@@ -130,7 +130,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="asyncdaytime_server.cpp" />
-    <ClCompile Include="boostasioGame.cpp" />
+    <ClCompile Include="ChatServer2.cpp" />
+    <ClCompile Include="ChatServerasio.cpp" />
     <ClCompile Include="daytimeserver.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -21,7 +21,10 @@
     <ClCompile Include="asyncdaytime_server.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="boostasioGame.cpp">
+    <ClCompile Include="ChatServerasio.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatServer2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
